@@ -1,0 +1,19 @@
+{
+    "name": "lucas/php-api",
+    "description": "REST API",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\PhpApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ribeiro",
+            "email": "lucasribeiro1024b@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
