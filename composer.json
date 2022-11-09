@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Lucas\\PhpApi\\": "src/"
-        }
+        },
+        "files": [
+            "src/inc/config.php"
+        ]
     },
     "authors": [
         {
