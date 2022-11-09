@@ -1,5 +1,27 @@
 # PHP API
 
+## Enpoints
+
+```
+Base example
+https://localhost/index.php/{MODULE_NAME}/{METHOD_NAME}?limit={LIMIT_VALUE}
+```
+
+<table>
+    <tr>
+        <th>Endpoint</th>
+        <th>URL</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>/user/list/</td>
+        <td>http://localhost/api.php/user/list</td>
+        <td>List all users</td>
+    </tr>
+</table>
+
+
+## API internal structure
 Let’s have a look at the following structure.
 
 ```

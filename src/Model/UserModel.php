@@ -11,6 +11,6 @@ class UserModel extends Database
     }
 
     public function addUser() {
-
+        
     }
 }
