@@ -25,3 +25,12 @@ Let’s have a look at the following structure.
 - **Controller/Api/BaseController.php**: a base controller file which holds common utility methods.
 - **Controller/Api/UserController.php**: the User controller file which holds the necessary application code to entertain REST API calls.
 
+
+
+
+
+
+<p class="text-align: center">
+    PHP API made by following <a href="https://code.tutsplus.com/tutorials/how-to-build-a-simple-rest-api-in-php--cms-37000">Sajal Soni tutorial</a>
+    ❤
+</p>
